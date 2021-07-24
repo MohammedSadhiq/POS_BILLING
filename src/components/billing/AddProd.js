@@ -12,10 +12,12 @@ function AddProd(){
         <form>
             <div>
                 <lable>Product</lable>
-                
+                <h1>Add prod</h1>
             </div>
         </form>
     </div>)
 
 
 }
+
+export default AddProd
